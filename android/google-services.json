@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "565412119118",
+    "project_id": "phone-director-b62aa",
+    "storage_bucket": "phone-director-b62aa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565412119118:android:47fb8b675885bd8f03391f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOcUA5zlz4FQU9U-5jIPFf_PxGLDFHhhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

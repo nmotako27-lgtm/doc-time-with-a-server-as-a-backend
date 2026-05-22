@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "533501206120",
+    "project_id": "doctime-c095e",
+    "storage_bucket": "doctime-c095e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533501206120:android:7f9bc460e75d5423a525dd",
+        "android_client_info": {
+          "package_name": "com.example.my_firebase_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTPPlFfJMG1L1m4e-bdCV0Gzoo6AGjyyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
